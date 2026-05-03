@@ -121,9 +121,9 @@ Aplicação web full-stack com **Node.js + Express**, funcionando como **PWA** r
 
 <div>
 <p align="center">
-<a href="https://github.com/jeniblodev">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jeniblodev&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jeniblodev&layout=compact&langs_count=8&theme=algolia"/>
+<a href="https://github.com/TiagRogato">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=TiagoRogato&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=TiagoRogato&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
