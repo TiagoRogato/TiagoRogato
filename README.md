@@ -89,10 +89,10 @@ Aplicação web full-stack com **Node.js + Express**, funcionando como **PWA** r
 ## 🎓 Formação & Certificações
 
 **Formação Acadêmica**
-- 🎓 MBA em Business Intelligence — FACUVALE *(em andamento · 720h)*
-- 🎓 Pós-graduação em Docência em Sistemas de Informação — FACUVALE *(em andamento · 700h)*
-- 🎓 Pós-graduação em Segurança de Redes de Computadores — FACUVALE *(em andamento)*
-- 🎓 Análise e Desenvolvimento de Sistemas — Centro Universitário Guairacá *(2012–2015)*
+- 🎓 MBA em Business Intelligence — FACUVALE **
+- 🎓 Pós-graduação em Docência em Sistemas de Informação — FACUVALE **
+- 🎓 Pós-graduação em Segurança de Redes de Computadores — FACUVALE **
+- 🎓 Análise e Desenvolvimento de Sistemas — Centro Universitário Guairacá **
 
 **Certificações em Destaque**
 - 📜 Governança e Gestão de TI (COBIT/BPM) — Pensar Cursos · 2025
