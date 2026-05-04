@@ -6,6 +6,7 @@
 [<img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/TiagoRogato)
 [<img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/tiago_rogato/)
 [<img alt="Landing Page" src="https://img.shields.io/badge/Portfolio-262533?style=for-the-badge&logo=firefox&logoColor=f9cc41" />](https://tiagorogato.github.io/landingpage/)
+[<img alt="Email" src="https://img.shields.io/badge/Email-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white" />](mailto:tiago.rogato@proton.me)
 
 ---
 
@@ -147,6 +148,7 @@ Se você tiver sugestões, ideias ou quiser contribuir com algum dos projetos, s
 - 💼 **LinkedIn:** [tiago-rogato-da-silveira](https://www.linkedin.com/in/tiago-rogato-da-silveira-095563b6/)
 - 🐙 **GitHub:** [TiagoRogato](https://github.com/TiagoRogato)
 - 📸 **Instagram:** [@tiago_rogato](https://www.instagram.com/tiago_rogato/)
+- 📧 **E-mail:** [tiago.rogato@proton.me](mailto:tiago.rogato@proton.me)
 
 ---
 
