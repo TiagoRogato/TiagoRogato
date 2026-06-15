@@ -35,6 +35,7 @@ Aqui você encontrará alguns dos meus projetos pessoais, trabalhos profissionai
 - **Diagnóstico e Correção de Legados** — Mapeamento completo de servidor Linux, separação de ambientes (produção/homologação), correções de namespace, Composer, Apache FPM, CSRF, SESSION_DOMAIN, exportação Excel e compatibilidade PHP 8.
 - **Automação de Infraestrutura** — n8n, Zabbix/Grafana, MikroTik, DNS, proxy, backups e painéis internos.
 - **Migração de Proxy/Squid** — Migração completa do proxy Squid do Debian 8 (Jessie) para Debian 13 (Trixie) com swap de identidade de rede, dashboard GoAccess em tempo real, painel de alertas de segurança (HTTP 403), relatórios SARG, controle TeamViewer por MAC, migração DNS BIND9, monitoramento Zabbix e backup Bareos. Sem downtime.
+- **Renovação Digital (Migração Infraestrutura)** — Migração estratégica de infraestrutura web e serviços (Locaweb → Hostinger) com planejamento completo, transferência segura de dados, reconfiguração de DNS, renovação de certificados SSL e ajuste fino de performance — tudo com rollback planejado e zero downtime.
 
 ## 🛠️ Linguagens e Tecnologias
 
