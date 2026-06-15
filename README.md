@@ -1,157 +1,85 @@
-# 👋 Olá! Eu sou Tiago Rogato
+# Tiago Rogato Silveira
 
-## 🔛 Especialista em BI & Dados | Desenvolvedor FullStack | DevOps | +15 Anos em TI
+Guarapuava, Paraná, Brasil | +55 42 99915-2224 | t.rogato@gmail.com  
+LinkedIn: https://www.linkedin.com/in/tiagorogato/ | GitHub: https://github.com/TiagoRogato | Portfólio: https://tiagorogato.github.io/landingpage/
 
-[<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/tiago-rogato-da-silveira-095563b6/)
-[<img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/TiagoRogato)
-[<img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/tiago_rogato/)
-[<img alt="Landing Page" src="https://img.shields.io/badge/Portfolio-262533?style=for-the-badge&logo=firefox&logoColor=f9cc41" />](https://tiagorogato.github.io/landingpage/)
-[<img alt="Email" src="https://img.shields.io/badge/Email-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white" />](mailto:tiago.rogato@proton.me)
+## Resumo profissional
 
----
+Profissional de Tecnologia da Informação com mais de 15 anos de experiência em infraestrutura, sistemas, dados e liderança técnica. Atua na sustentação de ambientes Linux/Windows, redes, segurança, suporte avançado, desenvolvimento web e automação de processos. Nos projetos recentes, vem aplicando IA para programação e operação assistida com agentes como Hermes Agent, OpenCode, Codebuff/Codex e provedores LLM, com foco em diagnosticar incidentes, corrigir sistemas legados, documentar ambientes e acelerar melhorias com controle técnico.
 
-## 🚀 Sobre Mim
+## Competências principais
 
-Sou **Tiago Rogato da Silveira**, especialista em **Análise de Dados e Business Intelligence** com mais de **15 anos de experiência em TI**, automação e transformação digital. Minha missão é transformar dados em decisões inteligentes que impulsionam resultados reais.
+- Gestão de infraestrutura de TI: Linux, Windows Server, Apache, PHP-FPM, redes LAN/VLAN/VPN/Wi-Fi, backup, monitoramento e continuidade operacional.
+- Sistemas e desenvolvimento: análise de sistemas, Laravel/PHP legado, HTML, SQL, Python, integrações, correção de bugs e manutenção evolutiva.
+- Dados e BI: Power BI, SQL, Excel avançado, análise de indicadores, governança de dados e dashboards para tomada de decisão.
+- IA aplicada à operação de TI: Hermes Agent, OpenCode, Codex/Codebuff, GitHub Copilot, configuração de modelos, fallback de provedores, automação de diagnóstico e revisão assistida de código.
+- Segurança e governança: LGPD, COBIT, BPM, controle de acessos, documentação técnica, padronização de ambientes e boas práticas de mudança.
+- Liderança: gestão de equipe, priorização, negociação, comunicação assertiva, OKRs, melhoria contínua e suporte a usuários.
 
-Ao longo da minha carreira, desenvolvi projetos que uniram tecnologia e estratégia:
-- 🤖 Automação de processos com **Python** que reduziu em **40%** o tempo de lançamentos de produção
-- 📊 Painéis em **Power BI** que apoiaram gestores na tomada de decisões rápidas e assertivas
-- 🏗️ Gestão completa de infraestrutura de TI em ambientes Linux e Windows Server
+## Projetos e entregas recentes
 
-Atualmente trabalho como **Analista de Sistemas / Superintendente de TI** em um Grupo de Empresas do setor madeireiro e de reflorestamento, onde aplico BI, automação e governança de dados no dia a dia.
+- Diagnóstico e correção de aplicações Laravel/PHP legadas em ambiente de produção e homologação, incluindo ajustes de namespace, Composer, Apache, PHP-FPM e logs de erro.
+- Mapeamento de múltiplas aplicações em servidor Linux, separando ambientes de produção, homologação, backups, painéis e serviços auxiliares para reduzir risco de alterações indevidas.
+- Configuração e endurecimento operacional do Hermes Agent com provedores gratuitos, Groq, Gemini, OpenRouter/OpenCode Zen, fallback de modelos, compactação de contexto e guardrails para leitura antes de edição.
+- Auditoria de histórico do Hermes Agent e OpenCode, identificando sessões, projetos afetados, modelos usados e pontos de falha como locks de checkpoint, limites de cota e incompatibilidades de versão.
+- Evolução de painéis e indicadores industriais, com foco em período padrão, calendário, visualização de eficiência por máquina e organização de métricas.
+- Apoio em infraestrutura de rede, proxy, DNS, Zabbix/Grafana, n8n, painéis de produção e aplicações internas.
 
-> *"Cada automação criada, cada dashboard desenvolvido e cada insight gerado é como olhar para uma nova constelação — uma descoberta que transforma informação em visão estratégica."*
+## Experiência profissional
 
-💬 Além do código, sou um grande apreciador de cervejas artesanais, especialmente **IPAs**! 🍺
+### Analista de Sistemas / Superintendente de TI | Repinho Reflorestadora Madeiras e Compensados
+Junho de 2011 - atual
 
----
+- Liderança técnica da infraestrutura de TI, parque de máquinas, licenciamento, servidores, redes e sistemas internos.
+- Administração de ambientes Linux/Windows, Apache, PHP, bancos de dados, serviços web, segurança, backup e suporte avançado.
+- Desenvolvimento e manutenção de sistemas internos, integrações, relatórios, dashboards e melhorias em aplicações legadas.
+- Implantação de soluções de monitoramento, organização de indicadores e automação para reduzir incidentes e tempo de diagnóstico.
+- Uso prático de IA para programação e operação assistida, acelerando análise de logs, correção de código, documentação e padronização de mudanças.
 
-## 💡 Projetos em Destaque
+### Analista de Suporte | Reptec Sistemas
+Setembro de 2009 - Junho de 2011
 
-### 📦 [Sistema de Controle de Estoque](https://github.com/TiagoRogato)
-Sistema completo desenvolvido em **Python + SQLite** com interface **Tkinter**. Ideal para pequenas e médias empresas gerenciarem produtos, fornecedores e vendas de forma eficiente.
+- Suporte técnico avançado em hardware, software, redes e servidores Windows/Linux.
+- Administração de serviços de rede, segurança, backup e atendimento remoto/presencial.
+- Documentação técnica, melhoria contínua de processos e acompanhamento de ordens de serviço.
 
-### 📋 [Agenda de Contatos 2.0](https://github.com/TiagoRogato)
-Aplicação robusta para gestão de contatos e ramais em ambientes corporativos. Interface fluida, segura e de alta performance.
+### Técnico em Informática | InfoCartucho.com
+Setembro de 2007 - Junho de 2011
 
-### 🚛 [Sistema de Controle de Portaria](https://github.com/TiagoRogato)
-Solução integrada (desktop + web) para registro de entrada e saída de veículos em portarias, com banco de dados **MySQL** centralizado.
+- Montagem, manutenção e diagnóstico de microcomputadores, notebooks, periféricos e redes locais.
+- Suporte a contratos corporativos e participação em reestruturação de VLANs e ambientes de rede.
 
-### 🔒 [FTP Uploader — PWA Seguro](https://github.com/TiagoRogato)
-Aplicação web full-stack com **Node.js + Express**, funcionando como **PWA** responsiva. Suporte a drag & drop, FTPS, retry automático e segurança contra path traversal.
+### Técnico em Informática | Perfect Info
+Junho de 2006 - Janeiro de 2007
 
----
+- Manutenção de computadores, atendimento ao público, suporte telefônico e configuração de redes.
 
-## 🛠️ Linguagens e Tecnologias
+### Encarregado de Frotas/Logística | Transportadora Rogato & Cia. Ltda
+Janeiro de 1999 - Janeiro de 2006
 
-### Dados & BI
-`Power BI` `DAX` `SQL` `ETL` `Excel Avançado` `Governança de Dados`
+- Gestão de frota, manutenção preventiva/corretiva, negociação com fornecedores, controle de custos e relatórios operacionais.
 
-### Desenvolvimento
-`Python` `PHP` `JavaScript` `TypeScript` `HTML` `CSS` `Node.js` `Laravel` `React` `Next.js`
+## Formação acadêmica
 
-### Infraestrutura & DevOps
-`Linux` `Windows Server` `Docker` `Kubernetes` `VPN WireGuard` `VLANs` `Zabbix` `Grafana` `Prometheus`
+- MBA em Business Intelligence | FACUVALE | Concluído em 06/2025 | 720 h/a
+- Docência em Sistemas de Informações | FACUVALE | Concluído em 06/2025 | 700 h/a
+- Segurança de Redes de Computadores | FACUVALE | Concluído em 03/2025
+- Extensão em Gestão do Tempo e Liderança | FACUVALE | Concluído em 03/2025 | 80 h/a
+- Análise e Desenvolvimento de Sistemas | Centro Universitário Guairacá | Concluído em 10/2015
 
-### Cloud & Bancos de Dados
-`AWS` `Azure` `GCP` `PostgreSQL` `MySQL` `MongoDB` `SQLite`
+## Certificações e cursos
 
-### Governança & Gestão
-`COBIT` `BPM` `LGPD` `OKRs` `Gestão de Projetos de TI`
+- Governança e Gestão de TI | Pensar Cursos | 2025 | 20h
+- Governança de Dados | Pensar Cursos | 2025 | 40h
+- Excel, Power BI e Inteligência Artificial | 2025
+- Habilidades com GitHub Copilot e IA para Programação | Microsoft/Escola do Trabalhador 4.0 | 2025 | 8h
+- Python na Prática | Imersão | 8h
+- LGPD na Prática, LGPD para Gestão Pública e Cultura de Proteção de Dados | Sebrae | 2025
+- Liderança, PNL, Escutatória, Negociação Modelo Harvard e Gestão para Resultados | Conquer/Sebrae
+- SAP para Iniciantes | Grandes Projetos | 2024 | 48h
+- SQL, Power BI e Excel Avançado | Conquer Business School
 
-<p align="left">
-<img align="left" alt="Python" title="Python" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
-<img align="left" alt="JavaScript" title="JavaScript" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
-<img align="left" alt="TypeScript" title="TypeScript" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"/>
-<img align="left" alt="PHP" title="PHP" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"/>
-<img align="left" alt="React" title="React" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"/>
-<img align="left" alt="Next.js" title="Next.js" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg"/>
-<img align="left" alt="Laravel" title="Laravel" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg"/>
-<img align="left" alt="HTML" title="HTML" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
-<img align="left" alt="CSS" title="CSS" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
-<img align="left" alt="Bootstrap" title="Bootstrap" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg"/>
-<img align="left" alt="Git" title="Git" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
-<img align="left" alt="Linux" title="Linux" width="30px" style="padding-right: 10px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Dark.svg"/>
-<img align="left" alt="Debian" title="Debian" width="30px" style="padding-right: 10px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Debian-Dark.svg"/>
-<img align="left" alt="Kali Linux" title="Kali Linux" width="30px" style="padding-right: 10px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Kali-Dark.svg"/>
-<img align="left" alt="Grafana" title="Grafana" width="30px" style="padding-right: 10px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Grafana-Dark.svg"/>
-<img align="left" alt="Prometheus" title="Prometheus" width="30px" style="padding-right: 10px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Prometheus.svg"/>
-<img align="left" alt="Postman" title="Postman" width="30px" style="padding-right: 10px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg"/>
-<img align="left" alt="Raspberry Pi" title="Raspberry Pi" width="30px" style="padding-right: 10px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/RaspberryPi-Dark.svg"/>
-<img align="left" alt="Arduino" title="Arduino" width="30px" style="padding-right: 10px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Arduino.svg"/>
-<img align="left" alt="JQuery" title="JQuery" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg"/>
-</p>
+## Idiomas
 
-<br><br>
-
----
-
-## 🎓 Formação & Certificações
-
-**Formação Acadêmica**
-- 🎓 MBA em Business Intelligence — FACUVALE **
-- 🎓 Pós-graduação em Docência em Sistemas de Informação — FACUVALE **
-- 🎓 Pós-graduação em Segurança de Redes de Computadores — FACUVALE **
-- 🎓 Análise e Desenvolvimento de Sistemas — Centro Universitário Guairacá **
-
-**Certificações em Destaque**
-- 📜 Governança e Gestão de TI (COBIT/BPM) — Pensar Cursos · 2025
-- 📜 Governança de Dados & SQL — Pensar Cursos · 2025 · 40h
-- 📜 Excel, Power BI & Inteligência Artificial — 2025
-- 📜 LGPD na Prática + Gestão Pública — Sebrae · 2025
-- 📜 GitHub Copilot & IA para Programação — Microsoft · 2025 · 8h
-- 📜 Liderança – Times de Alta Performance — SEBRAE
-- 📜 Negociação – Modelo Harvard — Conquer Business School
-- 📜 SAP para Iniciantes — Grandes Projetos · 2024 · 48h
-
----
-
-## 💼 Experiência Profissional
-
-| Período | Cargo | Empresa |
-|---|---|---|
-| Jun 2011 – Presente | Analista de Sistemas / Superintendente de TI | Indústria Madeireira & Reflorestamento |
-| Set 2009 – Jun 2011 | Analista de Suporte | Empresa de Tecnologia & Suporte em TI |
-| Set 2007 – Jun 2011 | Técnico em Informática | Comércio & Serviços em Informática |
-| Jan 1999 – Jan 2006 | Encarregado de Frotas / Logística | Setor de Transporte & Logística |
-
----
-
-## 📊 Estatísticas do GitHub
-
-<div>
-<p align="center">
-<a href="https://github.com/TiagRogato">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=TiagoRogato&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=TiagoRogato&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AecioJose/AecioJose/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AecioJose/AecioJose/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AecioJose/AecioJose/output/github-contribution-grid-snake.svg">
-</picture>
-
----
-
-## 🤝 Como Contribuir
-
-Se você tiver sugestões, ideias ou quiser contribuir com algum dos projetos, sinta-se à vontade para abrir uma *issue* ou *pull request*! Toda contribuição é bem-vinda.
-
----
-
-## ✉️ Contato
-
-- 🌐 **Portfolio:** [tiagorogato.github.io/landingpage](https://tiagorogato.github.io/landingpage/)
-- 💼 **LinkedIn:** [tiago-rogato-da-silveira](https://www.linkedin.com/in/tiago-rogato-da-silveira-095563b6/)
-- 🐙 **GitHub:** [TiagoRogato](https://github.com/TiagoRogato)
-- 📸 **Instagram:** [@tiago_rogato](https://www.instagram.com/tiago_rogato/)
-- 📧 **E-mail:** [tiago.rogato@proton.me](mailto:tiago.rogato@proton.me)
-
----
-
-## 📄 Licença
-
-Este repositório está sob a licença [MIT](https://github.com/TiagoRogato/TiagoRogato/blob/main/LICENSE).
+- Inglês básico
+- Espanhol básico
