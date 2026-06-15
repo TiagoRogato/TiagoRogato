@@ -19,7 +19,21 @@
 
 ## 💡 Meus Projetos
 
-Aqui você encontrará alguns dos meus projetos pessoais e estudos. Cada um reflete minha jornada de aprendizado e aplicação de diferentes tecnologias.
+Aqui você encontrará alguns dos meus projetos pessoais, trabalhos profissionais e entregas realizadas com IA assistida (Hermes Agent, OpenCode, Codex).
+
+### 🔧 Projetos em Produção
+
+- **RPMS — Sistema de Controle de Produção Industrial** — Laravel 5.4 multi-tenant com indicadores em tempo real, dashboards de eficiência, farol NC, exportação Excel/PDF, 63 models migrados e documentação extensiva. Correções completas com Hermes Agent + OpenCode sem downtime.
+- **Painel de Produção** — Dashboard de indicadores industriais com n8n, Firebird 4.0, Power BI e tooltips customizados. Evoluído com correções de período padrão, calendário e visualização por máquina.
+- **Agenda 2.0 (Ramais)** — API REST Node/Express com interface responsiva para consulta de ramais corporativos.
+- **Controle de Embarque (Portaria)** — Sistema desktop (.NET) + API web para controle de visitantes, veículos e liberações.
+- **FTP Uploader** — Aplicação PWA para upload de arquivos via FTP com feedback visual em tempo real.
+
+### 🤖 IA Aplicada à Operação de TI
+
+- **Hermes Agent + OpenCode** — Configuração, endurecimento e operação assistida com múltiplos provedores LLM (Groq, Gemini, OpenRouter/OpenCode Zen), fallback automático, compactação de contexto e habilidades especializadas para diagnóstico e correção de sistemas legados PHP/Laravel.
+- **Diagnóstico e Correção de Legados** — Mapeamento completo de servidor Linux, separação de ambientes (produção/homologação), correções de namespace, Composer, Apache FPM, CSRF, SESSION_DOMAIN, exportação Excel e compatibilidade PHP 8.
+- **Automação de Infraestrutura** — n8n, Zabbix/Grafana, MikroTik, DNS, proxy, backups e painéis internos.
 
 ## 🛠️ Linguagens e Tecnologias
 
