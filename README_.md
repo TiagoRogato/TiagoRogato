@@ -24,6 +24,7 @@ Profissional de Tecnologia da Informação com mais de 15 anos de experiência e
 - Auditoria de histórico do Hermes Agent e OpenCode, identificando sessões, projetos afetados, modelos usados e pontos de falha como locks de checkpoint, limites de cota e incompatibilidades de versão.
 - Evolução de painéis e indicadores industriais, com foco em período padrão, calendário, visualização de eficiência por máquina e organização de métricas.
 - Apoio em infraestrutura de rede, proxy, DNS, Zabbix/Grafana, n8n, painéis de produção e aplicações internas.
+- **Migração completa de proxy Squid (Debian 8 → Debian 13):** swap de identidade de rede, dashboards GoAccess em tempo real, painel de alertas de segurança (403), controle TeamViewer por MAC, relatórios SARG, scripts de automação e monitoramento Zabbix/Bareos. Sem downtime.
 
 ## Experiência profissional
 

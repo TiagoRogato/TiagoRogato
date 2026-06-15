@@ -34,6 +34,7 @@ Aqui você encontrará alguns dos meus projetos pessoais, trabalhos profissionai
 - **Hermes Agent + OpenCode** — Configuração, endurecimento e operação assistida com múltiplos provedores LLM (Groq, Gemini, OpenRouter/OpenCode Zen), fallback automático, compactação de contexto e habilidades especializadas para diagnóstico e correção de sistemas legados PHP/Laravel.
 - **Diagnóstico e Correção de Legados** — Mapeamento completo de servidor Linux, separação de ambientes (produção/homologação), correções de namespace, Composer, Apache FPM, CSRF, SESSION_DOMAIN, exportação Excel e compatibilidade PHP 8.
 - **Automação de Infraestrutura** — n8n, Zabbix/Grafana, MikroTik, DNS, proxy, backups e painéis internos.
+- **Migração de Proxy/Squid** — Migração completa do proxy Squid do Debian 8 (Jessie) para Debian 13 (Trixie) com swap de identidade de rede, dashboard GoAccess em tempo real, painel de alertas de segurança (HTTP 403), relatórios SARG, controle TeamViewer por MAC, migração DNS BIND9, monitoramento Zabbix e backup Bareos. Sem downtime.
 
 ## 🛠️ Linguagens e Tecnologias
 
